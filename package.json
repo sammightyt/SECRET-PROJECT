@@ -1,0 +1,10 @@
+{
+  "name": "js-2p7psl",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "ag": "^0.9.0",
+    "agu": "^1.0.0",
+    "jquery": "^3.5.1"
+  }
+}

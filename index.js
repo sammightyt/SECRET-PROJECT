@@ -10,3 +10,5 @@ document.getElementById("bad").onclick = function(){
     $("#hello").html("<h1>No, You have brought DESTRUCTION</h1>")
   }).animate({"height":"300px","width":"500px"})
 }
+
+
